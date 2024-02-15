@@ -19,8 +19,8 @@
       "infrastructure/protocol-upgrade"
     ],
     "nohoist": [
-      "**/@types/jest",
-      "**/@types/jasmine"
+      "/@types/jest",
+      "/@types/jasmine"
     ]
   },
   "scripts": {
